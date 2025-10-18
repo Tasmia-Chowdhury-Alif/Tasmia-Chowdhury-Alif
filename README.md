@@ -1,8 +1,8 @@
-<img width="100%" height="400px" src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760695192/Tasmia_Chowdhury_Alif_github_top_Banner_resized_kwfzuj.png">
-<h3 align="center">💻 A Passionate Python & Django Developer | Lifelong Learner</h3>
+<img width="1200px" height="400px" src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760695192/Tasmia_Chowdhury_Alif_github_top_Banner_resized_kwfzuj.png">
+<h3 align="center">💻 A Passionate Python & Django Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Python+%7C+Django+Developer;Problem+Solver+%7C+Competitive+Programmer;Learning+Everyday+To+Build+Better+Things;Backend+Engineer+%7C+Future+Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hello!+I'm+Alif;A+Passionate+Python+%26+Django+Developer;Problem+Solver+%7C+Competitive+Programmer;Backend+Engineer;Aspiring+AI/ML+Developer;Learning+Everyday+To+Build+Better+Things" alt="Typing SVG" />
 </p>
 
 
@@ -30,7 +30,7 @@ Currently, I’m focused on mastering **Advanced Backend features and Technologi
 
 #### 🗄️ Databases & Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,git,github,vercel,onrender" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,git,github,vercel,onrender,netlify" />
 </p>
 
 #### ☁️ Cloud & Others:
@@ -38,20 +38,6 @@ Currently, I’m focused on mastering **Advanced Backend features and Technologi
   <img src="https://skillicons.dev/icons?i=cloudinary,postman" />
 </p>
 
-
-### ⚙️ Tech Stack
-
-#### 💡 Languages:
-Python 🐍 | C | C++ | JavaScript | HTML | CSS
-
-#### 🧠 Frameworks & Libraries:
-Django | Django REST Framework | Bootstrap | jQuery
-
-#### 🗄️ Databases & Tools:
-MySQL | PostgreSQL | SQLite | Git | GitHub | Render | Vercel | Cloudinary
-
-#### 🧰 Others:
-JWT Authentication | Djoser | RESTful APIs | Deployment | Debugging | Clean Code Practices
 
 ---
 
