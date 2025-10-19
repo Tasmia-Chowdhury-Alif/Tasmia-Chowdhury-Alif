@@ -1,4 +1,4 @@
-<img width="1200px" height="400px" src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760695192/Tasmia_Chowdhury_Alif_github_top_Banner_resized_kwfzuj.png">
+<img width="1200px" height="300px" src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760695192/Tasmia_Chowdhury_Alif_github_top_Banner_resized_kwfzuj.png">
 
 <!-- <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+There!+;I'm+Tasmia+Chowdhury+Alif;A+Passionate+Python+%26+Django+Developer;Problem+Solver+%7C+Competitive+Programmer;Exploring+AI+%26+Machine+Learning;Learning+and+Building+Everyday" alt="Typing animation" /> </p> -->
@@ -10,7 +10,7 @@
 <!-- <h3 align="center">💻 A Passionate Python & Django Developer</h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hey+There!++I'm+Alif;A+Passionate+Python+%26+Django+Developer;Problem+Solver+%7C+Competitive+Programmer;Exploring+AI+%26+Machine+Learning;Learning+Everyday+To+Build+Better+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hey+There!++I'm+Alif;A+Passionate+Python+%26+Django+Developer;Problem+Solver+%7C+Competitive+Programmer;Exploring+AI+%26+Machine+Learning;Learning+Everyday+To+Build+Better+Things" alt="Typing SVG" />
 </p>
 
 
@@ -152,13 +152,15 @@ I love **transforming ideas into robust digital solutions** — blending clean c
 ### 📫 Connect with Me
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/tasmia-chy-alif/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760903567/icons8-linkedin-48_zaq4mn.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/users/1006166448177172490" alt="My Discord Profile"><img width="32px" src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760903750/icons8-discord-48_h80img.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="facebook" alt="facebook" title="facebook"><img width="32px" src="facebook"/></a>
+  <a href="https://x.com/" alt="twitter" title="twitter"><img width="32px" src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760905039/icons8-x-30_wsb4th.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://tasmiachowdhuryalif222@gmail.com"><img width="32px" alt="Dev.to" title="tasmiachowdhuryalif222@gmail.com" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"></a>
+  <a href="https://www.facebook.com/tasmia.chowdhury.alif/" alt="facebook" title="facebook"><img width="32px" src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760904850/icons8-facebook-50_1_hfndak.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://tasmiachowdhuryalif222@gmail.com"><img width="32px" alt="Dev.to" title="tasmiachowdhuryalif222@gmail.com" src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760902820/icons8-gmail-logo_amhpo1.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
