@@ -24,7 +24,7 @@ I love **transforming ideas into robust digital solutions** — blending clean c
 - 🌱 Currently learning **advanced backend architecture & system design**
 - 💬 Exploring **AI/ML**, **React.js**, and **Cloud Deployments**
 - ⚡ Fun fact: I debug faster with coffee ☕
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Takmim00&label=Profile%20views&color=0e75b6&style=flat" alt="Takmim00"/> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tasmia-chowdhury-Alif&label=Profile%20views&color=0e75b6&style=flat" alt="Tasmia Chowdhury Alif"/> </p> 
 
 
 
