@@ -92,7 +92,7 @@ I love **transforming ideas into robust digital solutions** — blending clean c
 
 
 
-<details open> 
+<!-- <details open> 
   <summary>
     <h3>🚀 Highlighted Projects  </h3>
   </summary>
@@ -104,7 +104,7 @@ I love **transforming ideas into robust digital solutions** — blending clean c
     <a href="https://github.com/Tasmia-Chowdhury-Alif/BookPilot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tasmia-Chowdhury-Alif&repo=BookPilot-Library_Management&theme=react&bg_color=1F222E&title_color=00FF88&hide_border=true&icon_color=00FF88&show_icons=false&show_description=true" /></a>
     <a href="https://github.com/Tasmia-Chowdhury-Alif/Gloves-Communication-Project"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tasmia-Chowdhury-Alif&repo=BD-Bank&theme=react&bg_color=1F222E&title_color=00FF88&hide_border=true&icon_color=00FF88&show_icons=false&show_description=true" /></a>
   </p>
-</details>
+</details> -->
 
 
 <details open> 
